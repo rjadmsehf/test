@@ -20,7 +20,5 @@ public class TestApplication {
         System.out.println("저는 개발자 입니다");
     }
 
-    public static void main(String[] args) {
-        System.out.println("아아아아아");
-    }
+     }
 }
